@@ -1,3 +1,4 @@
-# Network Intrusion Detection
+# Network Intrusion Detection System
 ---
-## A network security technology that continuously monitors and analyzes network traffic to detect and alert on unauthorized access, malicious activity, or policy violations.
+## What is it ?
+### _A **Network Intrusion Detection System (NIDS)** is a security tool that continuously monitors and analyzes data traffic moving across an entire network segment to detect malicious activity, unauthorized access, and policy violations._
